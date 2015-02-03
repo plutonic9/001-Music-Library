@@ -7,3 +7,4 @@ Music Library project
 3. Just to start getting familiar with -html- and -css-
 4. didn't know a -H1- from a -img- at this point
 5. finished, moving on
+6. checking git status
